@@ -8,7 +8,7 @@
       ]
     },
       {
-        "family": "EncodeSans",
+        "family": "PlusJakartaSans",
         "fonts": [
           {
             "asset": "fonts/PlusJakartaSans-Regular.ttf"
